@@ -1,4 +1,4 @@
-InputVal, OutputVal
+InputVal, ExpectedValue
 1,-2
 2,-2
 3,0
